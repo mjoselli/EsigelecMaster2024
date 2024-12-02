@@ -12,5 +12,5 @@ All projects can be done in groups of at maximum 3 students.
 - Build the screens of an App with Android Studio (minimum 3);
 - Use components of android 
 - [Figma](https://www.figma.com/community/file/1101784689160904535/mobile-app-design-figma-tutorial-for-beginners) tutorial
-- Delivery at: [link to delivery](https://www.dropbox.com/request/snIgwDPJUk6BLkqndNXn)
+- Delivery at: [link to delivery](https://www.dropbox.com/request/snIgwDPJUk6BLkqndNXn) or share with mejoselli@gmail.com
 - Deliver date: before the last day of class.
