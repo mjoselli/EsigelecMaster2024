@@ -1,3 +1,5 @@
+// Open in https://play.kotlinlang.org/ and respond to:
+
 // 1. Create a function that takes an integer and returns true if the number is even and false otherwise. 
 
 // 2. Create a function that receives an array of integers and returns the largest number. 
