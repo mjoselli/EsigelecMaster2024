@@ -3,6 +3,7 @@
 # Grades
 - 70%: Final Project
 - 30%: In-class exercises
+
 All projects can be done in groups of at maximum 3 students.
 
 # In-class Exercisees:
