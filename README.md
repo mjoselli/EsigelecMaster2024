@@ -45,6 +45,7 @@ This project involves developing an Android application that demonstrates profic
 * News Reader: An app that fetches news articles from various sources, allowing users to browse headlines, read articles, and potentially save articles for later reading.
 * Movie Database: An application that displays movie information, such as titles, posters, ratings, and plot summaries, fetched from a movie database API (e.g., The Movie Database (TMDb)).
 Example of repository with free APIs that can be used on the project: [link](https://github.com/public-apis/public-apis)
+- Delivery date: 06/01/2025
 - Delivery at: [link](https://www.dropbox.com/request/5H8mTHRfWt1dWWRbX2jk). Create a zip with a pdf with the report (that include some images and explanation of the code), include and small video showing the app working, the code and include a screenshot of the app.
 
 
