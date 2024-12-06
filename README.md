@@ -1,5 +1,5 @@
 # Content of Esigelec 2024 Android Master Class
-
+Instructor: Mark Joselli (mark.joselli at pucpr.br)
 # Grades
 - 70%: Final Project
 - 30%: In-class exercises
